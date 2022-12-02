@@ -10,7 +10,7 @@ module.exports = {
 
     const fs = require('fs');
     var nanika = new Map();
-    var slash = "※................................................................................※ \n";
+    var slash = "※...........................................................................※ \n";
     var data = null;
     try {
       const jsonString = fs.readFileSync("./data/charList.json");
