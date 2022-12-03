@@ -5,6 +5,7 @@
       "vnName": "Hệ Hỏa",
       "color": "#da8143",
       "thumnail": "https://cdn.discordapp.com/attachments/952167603160375306/956949964699893780/pyroglow.png",
+      "img": "https://cdn.discordapp.com/attachments/960469353319526400/1048487932316631040/Genshin_Impact_Pyro_Characters.jpg",
       "icon": "956926521052905492",
       "characters": "Bennett \nDiluc \nHutao \nKlee \nHutao \nThoma \nXiangling \nXinyan \nYanfei \nYoimiya \n"
     },
@@ -13,6 +14,7 @@
       "vnName": "Hệ Băng",
       "color": "#4da8bb",
       "thumnail": "https://cdn.discordapp.com/attachments/952167603160375306/956948973359333539/cryoglow.png",
+      "img": "https://cdn.discordapp.com/attachments/960469353319526400/1048487933038051399/Genshin-Impact-Cryo-Characters-1.jpg",
       "icon": "956926521023549460",
       "characters": "Aloy \nAyaka \nChongyun \nEula \nGanyu \nKaeya \nQiqi \nShenhe \n"
     },
@@ -21,6 +23,7 @@
       "vnName": "Hệ Thủy",
       "color": "#15a5ce",
       "thumnail": "https://cdn.discordapp.com/attachments/952167603160375306/956951191747723405/hydroglow.png",
+      "img": "https://cdn.discordapp.com/attachments/960469353319526400/1048487933767860264/Genshin-Impact-Hydro-Characters.jpg",
       "icon": "956926520960643132",
       "characters": "Ayato \nChilde - Tartaglia \nKokomi \nMona \nNilou \nXingqiu \nYelan \n"
     },
@@ -29,6 +32,7 @@
       "vnName": "Hệ Lôi",
       "color": "#8e54b4",
       "thumnail": "https://cdn.discordapp.com/attachments/952167603160375306/956951191303094302/electroglow.png",
+      "img": "https://cdn.discordapp.com/attachments/960469353319526400/1048487933524586607/Genshin-Impact-Electro-Characters.jpg",
       "icon": "956926522705465364",
       "characters": "Beidou \nCyno \nFischl \nKeqing \nRaiden - RaidenShogun - Ei \nRazor \nSara \nYae - YaeMiko \n"
     },
@@ -37,14 +41,16 @@
       "vnName": "Hệ Phong",
       "color": "#3b945",
       "thumnail": "https://cdn.discordapp.com/attachments/952167603160375306/956951828065579018/anemoglow2.png",
+      "img": "https://cdn.discordapp.com/attachments/960469353319526400/1048487932803166228/Genshin-Impact-Anemo-Characters.jpg",
       "icon": "956926522567049338",
       "characters": "Heizou \nJean \n Kazuha \nSayu \nSucrose \nVenti \nXiao \n "
-    },    
+    },
     {
       "name": "Geo",
       "vnName": "Hệ Nham",
       "color": "#d5a639",
       "thumnail": "https://cdn.discordapp.com/attachments/952167603160375306/956951191529607188/geoglow.png",
+      "img": "https://cdn.discordapp.com/attachments/960469353319526400/1048487932555690094/Genshin-Impact-All-Geo-Characters.jpg",
       "icon": "956926521627525280",
       "characters": "Albedo \nGorou \nItto \nNingguang \nNoelle \nTraveler \nYunjin \nZhongli \n"
     },
@@ -53,6 +59,7 @@
       "vnName": "Hệ Thảo",
       "color": "#96be25",
       "thumnail": "https://cdn.discordapp.com/attachments/953912033651326986/1003308200583499897/dendroglow.png",
+      "img": "https://cdn.discordapp.com/attachments/960469353319526400/1048487933230972988/Genshin-Impact-Dendro-Sumeru-Wallpaper---Nahida-Tighnari--Collei.webp",
       "icon": "1003477650804850709",
       "characters": "Tighnari \n"
     }
@@ -786,23 +793,19 @@
     {
       "name": "tighnari",
       "link": "https://youtu.be/qaRgKChjnZ8"
-    }
-    ,
+    },
     {
       "name": "cyno",
       "link": "https://www.youtube.com/watch?v=TiZSS3kLdSE"
-    }
-    ,
+    },
     {
       "name": "nilou",
       "link": "https://www.youtube.com/watch?v=kvUee-cnCns"
-    }
-    ,
+    },
     {
       "name": "nahida",
       "link": "https://www.youtube.com/watch?v=DF-sOnZtZCA"
-    }
-    ,
+    },
     {
       "name": "buer",
       "link": "https://www.youtube.com/watch?v=DF-sOnZtZCA"
@@ -814,349 +817,399 @@
     "657115586287108107",
     "962316199226654740"
   ],
-  "dropDown":[
+  "dropDownElement": [
     {
-      "ele":"pyro",
-      "char":
-        [
-          {
-            "label": "Bennett",
-            "description": " ",
-            "emoji":"1046355346911924284",
-            "value": "Bennett"
-          },
-          {
-            "label": "Diluc",
-            "description": " ",
-            "emoji":"1046355354155499550",
-            "value": "Diluc"
-          },          
-          {
-            "label": "Yoimiya",
-            "description": " ",
-            "emoji":"1046366067813007360",
-            "value": "Yoimiya"
-          },
-          {
-            "label": "Yanfei",
-            "description": " ",
-            "emoji":"1046366060766568458",
-            "value": "Yanfei"
-            
-          },
-          {
-            "label": "Xinyan",
-            "description": " ",
-            "emoji":"1046366063845195807",
-            "value": "Xinyan"
-          },
-          {
-            "label": "Xiangling",
-            "description": " ",
-            "emoji":"1046355424837914624",
-            "value": "Xiangling"
-          },
-          {
-            "label": "Thoma",
-            "description": " ",
-            "emoji":"1046355414519926824",
-            "value": "Thoma"
-          },
-          {
-            "label": "Klee",
-            "description": " ",
-            "emoji":"1046355378536972388",
-            "value": "Klee"
-          },
-          {
-            "label": "Hutao",
-            "description": " ",
-            "emoji":"1046355330944225280",
-            "value": "Hutao"
-          }
-        ]
+      "label": "Hỏa",
+      "description": " ",
+      "emoji": "956926521052905492",
+      "value": "pyro"
     },
     {
-      "ele":"cryo",
-      "char":
-        [
-          {
-            "label": "Shenhe",
-            "description": " ",
-            "emoji":"1046365772794036264",
-            "value": "Shenhe"
-          },          
-          {
-            "label": "Qiqi",
-            "description": " ",
-            "emoji":"1046365769312768030",
-            "value": "Qiqi"
-          },
-          {
-            "label": "Kaeya",
-            "description": " ",
-            "emoji":"1046355374044880906",
-            "value": "Kaeya"
-          },
-          {
-            "label": "Ganyu",
-            "description": " ",
-            "emoji":"1046355363362000896",
-            "value": "Ganyu"
-          },
-          {
-            "label": "Eula",
-            "description": " ",
-            "emoji":"1046355327492300851",
-            "value": "Eula"
-          },
-          {
-            "label": "Chongyun",
-            "description": " ",
-            "emoji":"1046355350384812132",
-            "value": "Chongyun"
-          },
-          {
-            "label": "Ayaka",
-            "description": " ",
-            "emoji":"1046355334345793666",
-            "value": "Ayaka"
-          },
-          {
-            "label": "Aloy",
-            "description": " ",
-            "emoji":"1046355321234407464",
-            "value": "Aloy"
-          }
-        ]
+      "label": "Băng",
+      "description": " ",
+      "emoji": "956926521023549460",
+      "value": "cryo"
     },
     {
-      "ele":"hydro",
-      "char":
-        [
-          {
-            "label": "Yelan",
-            "description": " ",
-            "emoji":"729542097362878563",
-            "value": "Yelan"
-          },          
-          {
-            "label": "Xingqiu",
-            "description": " ",
-            "emoji":"1046355431246794792",
-            "value": "Xingqiu"
-          },
-          {
-            "label": "Nilou",
-            "description": " ",
-            "emoji":"1046367970961653831",
-            "value": "Nilou"
-          },
-          {
-            "label": "Mona",
-            "description": " ",
-            "emoji":"1046355385688264804",
-            "value": "Mona"
-          },
-          {
-            "label": "Kokomi",
-            "description": " ",
-            "emoji":"1046355404055130133",
-            "value": "Kokomi"
-          },
-          {
-            "label": "Childe",
-            "description": " ",
-            "emoji":"1046355410413694986",
-            "value": "Childe"
-          },
-          {
-            "label": "Ayato",
-            "description": " ",
-            "emoji":"1046367956751360050",
-            "value": "Ayato"
-          }
-        ]
+      "label": "Thủy",
+      "description": " ",
+      "emoji": "956926520960643132",
+      "value": "hydro"
     },
     {
-      "ele":"electro",
-      "char":
-        [
-          {
-            "label": "Yae Miko",
-            "description": " ",
-            "emoji":"1046365777139355669",
-            "value": "Yae Miko"
-          },          
-          {
-            "label": "Sara",
-            "description": " ",
-            "emoji":"1046355382144094348",
-            "value": "Sara"
-          },
-          {
-            "label": "Razor",
-            "description": " ",
-            "emoji":"1046365168696819772",
-            "value": "Razor"
-          },
-          {
-            "label": "Raiden",
-            "description": " ",
-            "emoji":"1046355396182413392",
-            "value": "Raiden"
-          },
-          {
-            "label": "Keqing",
-            "description": " ",
-            "emoji":"1046365161902051368",
-            "value": "Keqing"
-          },
-          {
-            "label": "Fischl",
-            "description": " ",
-            "emoji":"1046355360723763220",
-            "value": "Fischl"
-          },
-          {
-            "label": "Cyno",
-            "description": " ",
-            "emoji":"1046367966817689600",
-            "value": "Cyno"
-          },
-          {
-            "label": "Beidou",
-            "description": " ",
-            "emoji":"1046355344017854515",
-            "value": "Beidou"
-          },
-          {
-            "label": "Traveller",
-            "description": " ",
-            "emoji":"1046355338401689630",
-            "value": "Traveller"
-          }
-        ]
+      "label": "Lôi",
+      "description": " ",
+      "emoji": "956926522705465364",
+      "value": "electro"
     },
     {
-      "ele":"anemo",
-      "char":
-        [
-          {
-            "label": "Xiao",
-            "description": " ",
-            "emoji":"1046355428126228570",
-            "value": "Xiao"
-          },
-          {
-            "label": "Venti",
-            "description": " ",
-            "emoji":"1046355418139611156",
-            "value": "Venti"
-          },
-          {
-            "label": "Sucrose",
-            "description": " ",
-            "emoji":"1046355407473479771",
-            "value": "Sucrose"
-          },
-          {
-            "label": "Sayu",
-            "description": " ",
-            "emoji":"1046368398126362645",
-            "value": "Sayu"
-          },
-          {
-            "label": "Kazuha",
-            "description": " ",
-            "emoji":"1046355370106441788",
-            "value": "Kazuha"
-          },
-          {
-            "label": "Jean",
-            "description": " ",
-            "emoji":"1046355366264438784",
-            "value": "Jean"
-          },
-          {
-            "label": "Heizou",
-            "description": " ",
-            "emoji":"1046367960467521556",
-            "value": "Heizou"
-          },
-          {
-            "label": "Traveller",
-            "description": " ",
-            "emoji":"1046355338401689630",
-            "value": "Traveller"
-          }
-        ]
+      "label": "Phong",
+      "description": " ",
+      "emoji": "956926522567049338",
+      "value": "anemo"
     },
     {
-      "ele":"geo",
-      "char":
-        [
-          {
-            "label": "Zhongli",
-            "description": " ",
-            "emoji":"1046355434073763910",
-            "value": "Zhongli"
-          },
-          {
-            "label": "Yunjin",
-            "description": " ",
-            "emoji":"1046365172110999573",
-            "value": "Yunjin"
-          },
-          {
-            "label": "Noelle",
-            "description": " ",
-            "emoji":"1046355392566931516",
-            "value": "Noelle"
-          },
-          {
-            "label": "Ningguang",
-            "description": " ",
-            "emoji":"1046355388586532904",
-            "value": "Ningguang"
-          },
-          {
-            "label": "Itto",
-            "description": " ",
-            "emoji":"1046365164582211635",
-            "value": "Itto"
-          },
-          {
-            "label": "Gorou",
-            "description": " ",
-            "emoji":"1046365157661618256",
-            "value": "Gorou"
-          },
-          {
-            "label": "Albedo",
-            "description": " ",
-            "emoji":"1046355341304147968",
-            "value": "Albedo"
-          },
-          {
-            "label": "Traveller",
-            "description": " ",
-            "emoji":"1046355338401689630",
-            "value": "Traveller"
-          }
-        ]
+      "label": "Nham",
+      "description": " ",
+      "emoji": "956926521627525280",
+      "value": "geo"
     },
     {
-      "ele":"dendro",
-      "char":
-        [
-          {
-            "label": "Tighnari",
-            "description": " ",
-            "emoji":"1046367963697127485",
-            "value": "Tighnari"
-          }
-        ]
+      "label": "Thảo",
+      "description": " ",
+      "emoji": "1003477650804850709",
+      "value": "dendro"
+    }
+  ],
+  "dropDown": [
+    {
+      "ele": "pyro",
+      "label": "Hỏa",
+      "emoji": "<:pyro:956926521052905492>",
+      "char": [
+        {
+          "label": "Bennett",
+          "description": " ",
+          "emoji": "1046355346911924284",
+          "value": "Bennett"
+        },
+        {
+          "label": "Diluc",
+          "description": " ",
+          "emoji": "1046355354155499550",
+          "value": "Diluc"
+        },
+        {
+          "label": "Yoimiya",
+          "description": " ",
+          "emoji": "1046366067813007360",
+          "value": "Yoimiya"
+        },
+        {
+          "label": "Yanfei",
+          "description": " ",
+          "emoji": "1046366060766568458",
+          "value": "Yanfei"
+        },
+        {
+          "label": "Xinyan",
+          "description": " ",
+          "emoji": "1046366063845195807",
+          "value": "Xinyan"
+        },
+        {
+          "label": "Xiangling",
+          "description": " ",
+          "emoji": "1046355424837914624",
+          "value": "Xiangling"
+        },
+        {
+          "label": "Thoma",
+          "description": " ",
+          "emoji": "1046355414519926824",
+          "value": "Thoma"
+        },
+        {
+          "label": "Klee",
+          "description": " ",
+          "emoji": "1046355378536972388",
+          "value": "Klee"
+        },
+        {
+          "label": "Hutao",
+          "description": " ",
+          "emoji": "1046355330944225280",
+          "value": "Hutao"
+        }
+      ]
+    },
+    {
+      "ele": "cryo",
+      "label": "Băng",
+      "emoji": "<:cryo:956926521023549460>",
+      "char": [
+        {
+          "label": "Shenhe",
+          "description": " ",
+          "emoji": "1046365772794036264",
+          "value": "Shenhe"
+        },
+        {
+          "label": "Qiqi",
+          "description": " ",
+          "emoji": "1046365769312768030",
+          "value": "Qiqi"
+        },
+        {
+          "label": "Kaeya",
+          "description": " ",
+          "emoji": "1046355374044880906",
+          "value": "Kaeya"
+        },
+        {
+          "label": "Ganyu",
+          "description": " ",
+          "emoji": "1046355363362000896",
+          "value": "Ganyu"
+        },
+        {
+          "label": "Eula",
+          "description": " ",
+          "emoji": "1046355327492300851",
+          "value": "Eula"
+        },
+        {
+          "label": "Chongyun",
+          "description": " ",
+          "emoji": "1046355350384812132",
+          "value": "Chongyun"
+        },
+        {
+          "label": "Ayaka",
+          "description": " ",
+          "emoji": "1046355334345793666",
+          "value": "Ayaka"
+        },
+        {
+          "label": "Aloy",
+          "description": " ",
+          "emoji": "1046355321234407464",
+          "value": "Aloy"
+        }
+      ]
+    },
+    {
+      "ele": "hydro",
+      "label": "Thủy",
+      "emoji": "<:hydro:956926520960643132>",
+      "char": [
+        {
+          "label": "Yelan",
+          "description": " ",
+          "emoji": "1048499288151437394",
+          "value": "Yelan"
+        },
+        {
+          "label": "Xingqiu",
+          "description": " ",
+          "emoji": "1046355431246794792",
+          "value": "Xingqiu"
+        },
+        {
+          "label": "Nilou",
+          "description": " ",
+          "emoji": "1046367970961653831",
+          "value": "Nilou"
+        },
+        {
+          "label": "Mona",
+          "description": " ",
+          "emoji": "1046355385688264804",
+          "value": "Mona"
+        },
+        {
+          "label": "Kokomi",
+          "description": " ",
+          "emoji": "1046355404055130133",
+          "value": "Kokomi"
+        },
+        {
+          "label": "Childe",
+          "description": " ",
+          "emoji": "1046355410413694986",
+          "value": "Childe"
+        },
+        {
+          "label": "Ayato",
+          "description": " ",
+          "emoji": "1046367956751360050",
+          "value": "Ayato"
+        }
+      ]
+    },
+    {
+      "ele": "electro",
+      "label": "Lôi",
+      "emoji": "<:electro:956926522705465364>",
+      "char": [
+        {
+          "label": "Yae Miko",
+          "description": " ",
+          "emoji": "1046365777139355669",
+          "value": "Yae Miko"
+        },
+        {
+          "label": "Sara",
+          "description": " ",
+          "emoji": "1046355382144094348",
+          "value": "Sara"
+        },
+        {
+          "label": "Razor",
+          "description": " ",
+          "emoji": "1046365168696819772",
+          "value": "Razor"
+        },
+        {
+          "label": "Raiden",
+          "description": " ",
+          "emoji": "1046355396182413392",
+          "value": "Raiden"
+        },
+        {
+          "label": "Keqing",
+          "description": " ",
+          "emoji": "1046365161902051368",
+          "value": "Keqing"
+        },
+        {
+          "label": "Fischl",
+          "description": " ",
+          "emoji": "1046355360723763220",
+          "value": "Fischl"
+        },
+        {
+          "label": "Cyno",
+          "description": " ",
+          "emoji": "1046367966817689600",
+          "value": "Cyno"
+        },
+        {
+          "label": "Beidou",
+          "description": " ",
+          "emoji": "1046355344017854515",
+          "value": "Beidou"
+        },
+        {
+          "label": "Traveller",
+          "description": " ",
+          "emoji": "1046355338401689630",
+          "value": "Traveller"
+        }
+      ]
+    },
+    {
+      "ele": "anemo",
+      "label": "Phong",
+      "emoji": "<:anemo:956926522567049338>",
+      "char": [
+        {
+          "label": "Xiao",
+          "description": " ",
+          "emoji": "1046355428126228570",
+          "value": "Xiao"
+        },
+        {
+          "label": "Venti",
+          "description": " ",
+          "emoji": "1046355418139611156",
+          "value": "Venti"
+        },
+        {
+          "label": "Sucrose",
+          "description": " ",
+          "emoji": "1046355407473479771",
+          "value": "Sucrose"
+        },
+        {
+          "label": "Sayu",
+          "description": " ",
+          "emoji": "1046368398126362645",
+          "value": "Sayu"
+        },
+        {
+          "label": "Kazuha",
+          "description": " ",
+          "emoji": "1046355370106441788",
+          "value": "Kazuha"
+        },
+        {
+          "label": "Jean",
+          "description": " ",
+          "emoji": "1046355366264438784",
+          "value": "Jean"
+        },
+        {
+          "label": "Heizou",
+          "description": " ",
+          "emoji": "1046367960467521556",
+          "value": "Heizou"
+        },
+        {
+          "label": "Traveller",
+          "description": " ",
+          "emoji": "1046355338401689630",
+          "value": "Traveller"
+        }
+      ]
+    },
+    {
+      "ele": "geo",
+      "label": "Nham",
+      "emoji": "<:geo:956926521627525280>",
+      "char": [
+        {
+          "label": "Zhongli",
+          "description": " ",
+          "emoji": "1046355434073763910",
+          "value": "Zhongli"
+        },
+        {
+          "label": "Yunjin",
+          "description": " ",
+          "emoji": "1046365172110999573",
+          "value": "Yunjin"
+        },
+        {
+          "label": "Noelle",
+          "description": " ",
+          "emoji": "1046355392566931516",
+          "value": "Noelle"
+        },
+        {
+          "label": "Ningguang",
+          "description": " ",
+          "emoji": "1046355388586532904",
+          "value": "Ningguang"
+        },
+        {
+          "label": "Itto",
+          "description": " ",
+          "emoji": "1046365164582211635",
+          "value": "Itto"
+        },
+        {
+          "label": "Gorou",
+          "description": " ",
+          "emoji": "1046365157661618256",
+          "value": "Gorou"
+        },
+        {
+          "label": "Albedo",
+          "description": " ",
+          "emoji": "1046355341304147968",
+          "value": "Albedo"
+        },
+        {
+          "label": "Traveller",
+          "description": " ",
+          "emoji": "1046355338401689630",
+          "value": "Traveller"
+        }
+      ]
+    },
+    {
+      "ele": "dendro",
+      "label": "Thảo",
+      "emoji": "<:dendro:1003477650804850709>",
+      "char": [
+        {
+          "label": "Tighnari",
+          "description": " ",
+          "emoji": "1046367963697127485",
+          "value": "Tighnari"
+        }
+      ]
     }
   ]
 }
